@@ -1,0 +1,58 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Poor Story', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Mono', monospace;
+background-color: antiquewhite;
+}
+
+.header_div
+{
+background-color: lightblue;
+color: darkblue;
+}
+
+.header_div p
+{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poor Story', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size:12px;
+}
+
+.main_div button
+{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poor Story', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color: lightgreen;
+    color:black;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 10px red;
+    bottom: 0;
+    font-size: 18px;
+}
+
+#result_accuracy, #result_confidence
+{
+color: rgb(223, 132, 132);
+}
